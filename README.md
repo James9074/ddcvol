@@ -3,6 +3,9 @@
 Control an external monitor's volume from your Mac's keyboard volume keys, over
 DDC/CI — for Apple Silicon Macs whose audio output is an HDMI/DisplayPort monitor.
 
+<img width="300" height="102" alt="image" src="https://github.com/user-attachments/assets/9054ba80-d3e0-4cea-bac8-003d0db9c195" />
+
+
 ## Why
 
 When macOS sends audio over DisplayPort/HDMI, the DAC lives in the monitor, so
